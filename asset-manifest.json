@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.0f062cb1.css",
+    "main.js": "/Portfolio-website/static/js/main.39a9179f.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio-website/static/js/453.1407b060.chunk.js",
+    "static/media/myself.png": "/Portfolio-website/static/media/myself.0cf541d8f6c896f08307.png",
+    "static/media/Redwing-Medium.otf": "/Portfolio-website/static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
+    "static/media/Redwing-Light.otf": "/Portfolio-website/static/media/Redwing-Light.bda278368d19c572f2f2.otf",
+    "index.html": "/Portfolio-website/index.html",
+    "static/media/angle-down.svg": "/Portfolio-website/static/media/angle-down.11e201872eb97a54f0d3.svg",
+    "static/media/triangle.svg": "/Portfolio-website/static/media/triangle.5172a3481a7112a7a103.svg",
+    "main.0f062cb1.css.map": "/Portfolio-website/static/css/main.0f062cb1.css.map",
+    "main.39a9179f.js.map": "/Portfolio-website/static/js/main.39a9179f.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio-website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f062cb1.css",
+    "static/js/main.39a9179f.js"
+  ]
+}
