@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
   "homepage": "https://ru-cheetah.github.io/Portfolio-website",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,12 +16,14 @@
     "react-collapsible": "^2.10.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "TagCloud": "^2.3.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,6 +49,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
+    "gh-pages": "^6.1.1",
     "sass": "^1.55.0"
   }
 }
