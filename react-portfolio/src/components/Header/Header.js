@@ -98,7 +98,7 @@ const Header = () => {
                   data-aos="fade-down"
                   data-aos-delay="0"
                 >
-                  <a href="#about">About</a>
+                  {/* <a href="#about">About</a>
                 </li>
                 <div className="header__route-bg"></div>
               </div>
@@ -108,8 +108,8 @@ const Header = () => {
                   ref={navLinkWork}
                   data-aos="fade-down"
                   data-aos-delay="200"
-                >
-                  <a href="#work">Works</a>
+                > */}
+                  <a href="https://github.com/ru-cheetah">GitHub</a>
                 </li>
                 <div className="header__route-bg"></div>
               </div>
@@ -120,7 +120,7 @@ const Header = () => {
                   data-aos="fade-down"
                   data-aos-delay="300"
                 >
-                  <a href="#contact">Contact me</a>
+                  <a href="https://www.linkedin.com/in/ruchitha-reddy-bavanam/">Linkden</a>
                 </li>
                 <div className="header__route-bg"></div>
               </div>

@@ -108,19 +108,19 @@ const Hero = () => {
             <div className="hero__buttons">
               <a
                 className="hero__know-btn"
-                href="#about"
+                href="https://leetcode.com/u/ru_cheetah/"
                 data-aos="fade-up"
                 data-aos-delay="1800"
               >
-                Know more
+                LeetCode Profile
               </a>
               <a
                 className="hero__contact-btn"
-                href="#contact"
+                href="https://www.hackerrank.com/profile/ruchithareddy1"
                 data-aos="fade-up"
                 data-aos-delay="2000"
               >
-                Contact me
+                Hackerrank Profile
               </a>
             </div>
           </div>

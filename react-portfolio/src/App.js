@@ -26,7 +26,19 @@ function App() {
             path="/"
             element={
               <>
-                <Header /> <Hero /> <Works /> <About /> <Skill /> <Contact />
+                <Header /> <Hero /> 
+                <section id="work">
+                  <Works />
+                </section>
+                <section id="work">
+                  <About />
+                </section>
+                <section id="work">
+                  <Skill />
+                </section>
+                <section id="work">
+                  <Contact />
+                </section>
               </>
             }
           />
